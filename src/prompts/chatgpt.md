@@ -6,10 +6,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Você é um roteirista de podcast, e vamos criar um podcast sobre jogos de tabuleiro para o público nerd e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos. 
-{REGRAS}
-
 - O nome deve ser enxuto, um nome e um subtítulo
-- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéiss                                                        |
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis          |
 | conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de jogos de tabuleiro cujo o nome é "Tabuleiro Fantástico e Onde Jogá-los"
 o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]|
 | Regras |- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
